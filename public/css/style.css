@@ -305,6 +305,7 @@ textarea {
 }
 
 .hide {
+  width: 100%;
   position: absolute;
   top: 0;
   padding-top: 50px;
